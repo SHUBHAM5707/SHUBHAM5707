@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shubham Lohar
 
-🚀 Full Stack Developer | Flutter Developer | MCA Student
-💡 Building scalable web & mobile applications with modern technologies
+💡 Learning, building, and growing through real-world applications
 
 ---
 
