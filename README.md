@@ -26,13 +26,16 @@ Flutter • React Native • GetX
 React.js • Next.js • Tailwind CSS • Shadcn UI
 
 ⚙ **Backend**
-Spring Boot • Node.js • .NET • Hibernate • REST APIs
+Spring Boot • Node.js • Hibernate • REST APIs
 
 🗄 **Databases**
 MySQL • PostgreSQL • Firebase Firestore
 
 🧰 **Tools**
-Git • GitHub • IntelliJ • VS Code • Maven
+Git • GitHub • VS Code • Andrid Studio
+
+🧰 **AI Tools**
+GitHub Copilot • AntiGravity • Gemini CLI • Codex CLI • OpenCode CLI
 
 ---
 
